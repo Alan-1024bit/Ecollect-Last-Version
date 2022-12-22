@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat/Montserrat-Medium.ttf') format('truetype');
+}
+
+.Montserrat{
+  font-family: 'Montserrat';
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+
+.Montserrat-Bold{
+  font-family: 'Montserrat-Bold';
+}
+
+.Montserrat-Brand{
+  font-family: 'Montserrat-Bold';
+  font-size: xx-large;
+  color:rgb(56, 142, 60);
+}
+
+.Montserrat-Carousel{
+  font-family: 'Montserrat-Bold';
+  font-size: 3vw;
+  color:rgb(255, 255, 255);
+}
+
+@font-face {
+  font-family: 'Cabin';
+  src: url('../fonts/Cabin/Cabin-Regular.ttf') format('truetype');
+}
+
+.Cabin{
+  font-family: 'Cabin';
+}
+
+@font-face {
+  font-family: 'Cabin-SemiBold';
+  src: url('../fonts/Cabin/Cabin-SemiBold.ttf') format('truetype');
+}
+
+.Cabin_SemiBold{
+  font-family: 'Cabin-SemiBold';
+}
+
+@font-face {
+  font-family: 'HindGuntur-SemiBold';
+  src: url('../fonts/Hind Guntur/HindGuntur-SemiBold.ttf') format('truetype');
+}
+
+.HindGuntur-SemiBold{
+  font-family: 'HindGuntur-SemiBold';
+}
+
+@font-face {
+  font-family: 'Hind Guntur';
+  src: url('../fonts/Hind Guntur/HindGuntur-Regular.ttf') format('truetype');
+}
+
+.HindGuntur{
+  font-family: 'Hind Guntur';
+}
+
+nav{
+  height: 10vh;
+}
+
+#bar{
+  height: 1.7vh;
+  background-color: rgb(106, 191, 105); /* rgb(56, 142, 60) */
+}
+
+.image{
+  height: 35vw;
+}
+
+.btn-color{
+  background-color: rgb(106, 191, 105);
+  color: #fff;
+}
+  
+.profile-image-pic{
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+  
+.cardbody-color{
+  background-color: #ffffff;
+}
+  
+a{
+  text-decoration: none;
+}
+
+.lettering{
+  margin-right: -9.5px;
+}
+
+.navbar-collapse {
+  margin-left: 60%;
+}
+
+.bg-none{
+  background-color: #fff;
+}
+
+.form-config{
+  margin-bottom: 20rem;
+}
+
+.card-height{
+  min-height: 10vh;
+}
+
+.carousel-caption{
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.card-add{
+  min-height: 13rem;
+}
+
+.icon-add{
+  font-size: 8vw;
+  text-decoration: none;
+}
+
+.info{
+  font-size: 10rem;
+  color: hsla(0, 0%, 0%, 0.350);
+}
+
+.espacoUm{
+  margin-bottom: 9em;
+}
+
+#form-qtddMateriais{
+  margin-bottom: 15%;
+}
